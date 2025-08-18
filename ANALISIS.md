@@ -2,9 +2,9 @@ Diseño UX/UI <br>
 Jóvenes a Programar 2025 — Semana 07 — Taller 04 <br>
 Jeremías Cardona, Leonardo Farias, Melany Jazmín Herrera <br>
 
-  <b> Parte 1. Análisis de e-commerce <b>
+  <span> Parte 1. Análisis de e-commerce <span>
 
-1.1. Análisis de la página 1: Tiendamia
+1.1. Análisis de la página 1: Tiendamia <br>
 El logotipo de Tiendamia está ubicado en la esquina superior izquierda, dentro de la barra de navegación y sus márgenes. Al hacer click sobre éste, nos lleva al inicio de la página.
 El buscador se encuentra en la barra de navegación, centrado.
 El ícono indicativo del carrito de compra es el más conocido: un carrito de supermercado. Este está visible en todo momento en la esquina superior derecha dentro de la barra de navegación, la cual siempre se encuentra en el margen superior de la página, e indica la cantidad de artículos que tiene dentro.
@@ -29,4 +29,5 @@ Los botones de acción de los productos están ubicados en:
 <li>En el inicio: el único botón de acción en el inicio corresponde a cada imagen de cada producto para ver más detalles sobre este.</li>
 <li>En cada producto: los botones de “Añadir al Carrito” y “Comenzar Compra” están ubicados en la parte derecha, específicamente debajo del precio del producto.</li>
 
+1.2. Análisis de la página 2: Mercado Libre 
 
