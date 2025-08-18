@@ -11,13 +11,19 @@ El ícono indicativo del carrito de compra es el más conocido: un carrito de su
 El botón de iniciar sesión/cuenta actual está ubicado en la parte superior derecha de la página. Haciendo click en “Mi Cuenta” podemos acceder a nuestro perfil. Se encuentra a la izquierda del carrito.
 Los tipos de menú utilizados son hamburguesa y desplegable.
 
+<br>
+
 Las imágenes de los productos están ubicados en:
 <li>En el inicio: se encuentra en grillas. La imagen se encuentra primero, arriba del título del producto. </li>
 <li>En cada producto: las imágenes del producto están en la parte superior izquierda de la página, el sitio nos permite hacer click en cada imágen para maximizar su tamaño y visualizar mejor el producto. </li>
 
+<br>
+
 Los precios de los productos están ubicados en:
 <li>En el inicio: debajo del título del producto. </li>
 <li>En cada producto: se ubican en la parte superior derecha de la página, (en caso que el producto esté con descuento, al lado del valor se exhibe el % del descuento y abajo el precio final con el descuento). </li>
+
+<br>
 
 Los botones de acción de los productos están ubicados en:
 <li>En el inicio: el único botón de acción en el inicio corresponde a cada imagen de cada producto para ver más detalles sobre este.</li>
