@@ -2,7 +2,7 @@ Diseño UX/UI <br>
 Jóvenes a Programar 2025 — Semana 07 — Taller 04 <br>
 Jeremías Cardona, Leonardo Farias, Melany Jazmín Herrera <br>
 
-  <span> Parte 1. Análisis de e-commerce <span>
+  <span> Parte 1. Análisis de e-commerce </span>
 
 1.1. Análisis de la página 1: Tiendamia <br>
 El logotipo de Tiendamia está ubicado en la esquina superior izquierda, dentro de la barra de navegación y sus márgenes. Al hacer click sobre éste, nos lleva al inicio de la página.
@@ -59,7 +59,9 @@ Los botones de acción de los productos están ubicados en:
 
 Ambas páginas de e-commerce son fáciles de usar y dinámicas. Se enfocan en que el sitio fluya: los botones son visibles y funcionales, requieren de pocos pasos para comprar. En la barra de navegación están siempre a la vista los elementos más necesarios, como el buscador y el carrito, brindando así una buena experiencia de usuario.
 
+<br>
 
+<span> Parte 2. Prototipo en Figma </span> <br>
 
 
 
