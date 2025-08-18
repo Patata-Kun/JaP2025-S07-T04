@@ -63,7 +63,7 @@ Ambas páginas de e-commerce son fáciles de usar y dinámicas. Se enfocan en qu
 
 ## Parte 2. Prototipo en Figma <br>
 
-
+[Link al prototipo](https://www.figma.com/proto/Fsu4ZETTEuAbJImZ4RRqMn/S07---T04?node-id=61-4&t=JRT20PfG9625wIzq-1&scaling=scale-down&content-scaling=fixed).
 
 
 
