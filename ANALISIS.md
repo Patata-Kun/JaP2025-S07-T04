@@ -31,7 +31,7 @@ Los botones de acción de los productos están ubicados en:
 
 <br>
 
-1.2. Análisis de la página 2: Mercado Libre <br>
+## 1.2. Análisis de la página 2: Mercado Libre <br>
 El logotipo de Mercado Libre está ubicado en la esquina superior izquierda, dentro de la barra de navegación y sus márgenes.
 Al hacer click sobre el logo el mismo nos lleva al inicio de la página 
 El buscador está centrado hacia el lado izquierdo de la barra. 
